@@ -1,1 +1,1 @@
-"# spammer" 
+# spammer
